@@ -1,0 +1,15 @@
+<meta>
+	<info author="Gabriel Camargo" name="Sistema Busão" description="Sistema Busão BRP" type="script"></info>
+
+	<script src="Edit.lua" type="shared" />
+
+	<script src="S-Busao.lua" type="server" />
+	<script src="C-Busao.lua" type="client" />
+
+	<file src="img/LS.png" cache="false" />
+	<file src="img/LV.png" cache="false" />
+	<file src="img/SF.png" cache="false" />
+
+	<file src="font/font.ttf" cache="false" />
+	<file src="font/impact.ttf" cache="false" />
+</meta>
